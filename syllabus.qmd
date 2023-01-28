@@ -212,8 +212,8 @@ Please read the information below as a reference for how this class will be cond
 |:-----------------------------------|:----------------------------|
 | In-class performance               | 5%                          |
 | Midterm exam                       | 30%                         |
-| Paper presentation                 | 30%                         |
-| Data analysis project presentation | 35%                         |
+| Paper presentation                 | 25%                         |
+| Data analysis project presentation | 40%                         |
 
 
 ## Midterm date and coverage
