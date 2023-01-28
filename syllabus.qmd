@@ -60,9 +60,9 @@ Since the course also touches on the mathematical and statistical theory behind 
 
 ## Course Logistics
 
-* Course related all announcements will be done through <a href="https://ninova.itu.edu.tr">Ninova</a>. 
-* Lecture materials (lecture slides, code scripts, assignments etc) will be uploaded on <a href="https://github.com/MAT555E-Spring23">GitHub organization</a> of the course. 
-* Students are expected to bring their own portable computer to the class.
+-   Course related all announcements will be done through <a href="https://ninova.itu.edu.tr">Ninova</a>.
+-   Lecture materials (lecture slides, code scripts, assignments etc) will be uploaded on <a href="https://github.com/MAT555E-Spring23">GitHub organization</a> of the course.
+-   Students are expected to bring their own portable computer to the class.
 
 ## Course Workload
 
@@ -80,7 +80,7 @@ Week 3. Multiple linear regression.
 
 Week 4. Regression as a supervised learning problem.
 
-Week 5. Regularization methods for regression problems. Ridge regression and lasso. 
+Week 5. Regularization methods for regression problems. Ridge regression and lasso.
 
 Week 6. Cross-validation. Unsupervised pre-processing. Grid search and hyper-parameter tuning.
 
@@ -88,7 +88,7 @@ Week 7. Remaining topics for regression problems.
 
 Week 8. ITU Fall Break.
 
-Week 9. Introduction to classification. Logistic regression. 
+Week 9. Introduction to classification. Logistic regression.
 
 Week 10. Linear discriminant analysis. Quadratic discriminant analysis.
 
@@ -172,7 +172,7 @@ Students are encouraged to consult the following sources on their own:
 
 Access to library e-sources remotely is possible with a library account. Users without a library account should apply for the library registration at <a href="https://kutuphane.itu.edu.tr/en/register">Library register</a>. After setting the web configurations given at <a href="https://kutuphane.itu.edu.tr/en/services/web-browser-proxy-settings">Proxy</a> only once on your computer, you will able to have an access to ITU Library e-sources.
 
-<p>
+</p>
 
 ## Selected Important Dates
 
@@ -190,13 +190,13 @@ March 27-31, 2023: ITU Spring Break (No classes).
 
 April 21-23, 2023: Ramadan Feast Holiday (Friday-Sunday).
 
-April 23, 2023: National Sovereignty and Children’s Day (Sunday).
+April 23, 2023: National Sovereignty and Children's Day (Sunday).
 
 May 1, 2023: Labor and Solidarity Day (Monday).
 
 May 19, 2023: Commemoration of Atatürk, Youth and Sports Day (Friday)
 
-May 19, 2023:  Last day of classes.
+May 19, 2023: Last day of classes.
 
 May 22-June 04, 2023: Final exam week.
 
@@ -215,38 +215,39 @@ Please read the information below as a reference for how this class will be cond
 | Paper presentation                 | 25%                         |
 | Data analysis project presentation | 40%                         |
 
-
 ## Midterm date and coverage
 
 <p align="justify">
 
-* The midterm will be on `TBA`. 
-* The midterm topics will cover whatever we have covered up to that week. 
-* The main aim of the midterm is to assess whether you are able to frame a data analysis problem, implement it, and report the results. 
-* The midterm will be hands-on and open-book exam. For that reason, you have to bring your own portable computer to the exam place.
+-   The midterm will be on `TBA`.
+-   The midterm topics will cover whatever we have covered up to that week.
+-   The main aim of the midterm is to assess whether you are able to frame a data analysis problem, implement it, and report the results.
+-   The midterm will be hands-on and open-book exam. For that reason, you have to bring your own portable computer to the exam place.
 
-<p>
+</p>
 
 ## Paper resentation (with report submission) date and coverage
 
 <p align="justify">
 
-* The paper presentation will be on `TBA`.
-* When the semester starts, I will suggest a journal name for you to a pick a paper published in that journal within nearly past three years (2022, 2021, and 2020).
-* The main aim of paper presentations (along with a report submission) is to asses whether you are able to read and understand a research problem recently carried out, and suggest an improvement (e.g., mathematical or computational) as an extension of the paper. 
-* The presentation duration is 30 minutes (25 min. talk + 5 min. Q.A.).
+-   The paper presentation will be on `TBA`.
+-   When the semester starts, I will suggest a journal name for you to a pick a paper published in that journal within nearly past three years (2022, 2021, and 2020).
+-   The main aim of paper presentations (along with a report submission) is to asses whether you are able to read and understand a research problem recently carried out, and suggest an improvement (e.g., mathematical or computational) as an extension of the paper.
+-   The presentation duration is 30 minutes (25 min. talk + 5 min. Q.A.).
 
-
-<p>
+</p>
 
 ## Data analysis project presentation (with report submission) date and coverage
 
 <p align="justify">
 
-* The project presentation and report submission date is the final exam date that will be announced by ITU SIS later in May 2023. 
-* In the data analysis project you are asked to develop a data analysis project from zero.
-* You need to find a data and define a research problem around this data. Then, you have to apply the algorithms covered as well as the ones not covered in the course to find answers to your research problem. 
-<p>
+-   The project presentation and report submission date is the final exam date that will be announced by ITU SIS later in May 2023.
+
+-   In the data analysis project you are asked to develop a data analysis project from zero.
+
+-   You need to find a data and define a research problem around this data. Then, you have to apply the algorithms covered as well as the ones not covered in the course to find answers to your research problem.
+
+</p>
 
 ## Final Exam Attendance Policy
 
@@ -256,11 +257,11 @@ There is no VF rule to attend or not to attend the final exam.
 
 <p align="justify">
 
-* The students who miss either midterm exam, paper presentation, or data analysis project presentation due to a health problem can take a make-up exam/presentation day as long as they have a valid medical report taken on the exam day. 
-* The medical report should be handed in immediately (within two days of its expiration).
-* There will be **NO** make-up for missed in-class activities.
+-   The students who miss either midterm exam, paper presentation, or data analysis project presentation due to a health problem can take a make-up exam/presentation day as long as they have a valid medical report taken on the exam day.
+-   The medical report should be handed in immediately (within two days of its expiration).
+-   There will be **NO** make-up for missed in-class activities.
 
-<p>
+</p>
 
 ## Class Attendance Policy
 
@@ -272,7 +273,7 @@ The students must attend at least 70% of classes and are deemed responsible to m
 
 The students are expected to ask and answer questions, participate in in-class activities, and show their interest and engagement in the class.
 
-<p>
+</p>
 
 ## E-mail Policy
 
@@ -295,7 +296,7 @@ Feel free to send me e-mails. But be sure you that give me enough time to get ba
 
 At every stage of the academic life, every ITU student is responsible for obeying the academic honesty policy of ITU stated below:
 
-<p>
+</p>
 
 <https://odek.itu.edu.tr/en/code-of-honor/ethics-in-university-life>.
 
@@ -305,7 +306,7 @@ At every stage of the academic life, every ITU student is responsible for obeyin
 
 In this class, I am committed to cultural and individual differences and diversity as including, but not limited to, age, disability, ethnicity, gender, gender identity, language, national origin, race, religion, culture, and socioeconomic status and I acknowledge the value of differences.
 
-<p>
+</p>
 
 ## Student with Special Needs
 
@@ -315,4 +316,4 @@ I truly care about that every student in my class feels that she/he involved in 
 
 <http://engelsiz.itu.edu.tr/>.
 
-<p>
+</p>

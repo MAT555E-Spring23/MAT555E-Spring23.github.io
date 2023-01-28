@@ -18,5 +18,3 @@ format:
 
 * Introduction to multivariate data analysis terminologies and related linear algebra concepts.
 
-
-
