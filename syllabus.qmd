@@ -72,11 +72,11 @@ Since the course also touches on the mathematical and statistical theory behind 
 
 We will closely follow the weekly schedule given below. However, weekly class schedules are subject to change depending on the progress we make as a class.
 
-Week 1. Introduction to multivariate data analysis terminologies and related linear algebra concepts.
+Week 1. Course introduction. Simple linear regression.
 
-Week 2. Simple linear regression.
+Week 2. Multiple linear regression.
 
-Week 3. Multiple linear regression.
+Week 3. Multiple linear regression continu'ed
 
 Week 4. Regression as a supervised learning problem.
 
@@ -226,7 +226,7 @@ Please read the information below as a reference for how this class will be cond
 
 </p>
 
-## Paper resentation (with report submission) date and coverage
+## Paper resentation (along with report submission) date and coverage
 
 <p align="justify">
 
@@ -237,7 +237,7 @@ Please read the information below as a reference for how this class will be cond
 
 </p>
 
-## Data analysis project presentation (with report submission) date and coverage
+## Data analysis project presentation (along with report submission) date and coverage
 
 <p align="justify">
 
