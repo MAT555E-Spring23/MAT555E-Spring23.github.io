@@ -66,7 +66,7 @@ Since the course also touches on the mathematical and statistical theory behind 
 
 ## Course Workload
 
-1 midterm exam, 1 paper presentation with a written-report, 1 project presentation with a written-report, and in-class performance (see details below).
+3 homework, 1 paper presentation with a written-report, 1 project presentation with a written-report, and in-class performance (see details below).
 
 ## Course Tentative Plan
 
@@ -86,21 +86,19 @@ Week 6. Cross-validation. Unsupervised pre-processing. Grid search and hyper-par
 
 Week 7. Remaining topics for regression problems.
 
-Week 8. ITU Fall Break.
+Week 8. Introduction to classification. Logistic regression.
 
-Week 9. Introduction to classification. Logistic regression.
+Week 9. Linear discriminant analysis. Quadratic discriminant analysis.
 
-Week 10. Linear discriminant analysis. Quadratic discriminant analysis.
+Week 10. Naive Bayes. K-nearest neighbors.
 
-Week 11. Naive Bayes. K-nearest neighbors.
+Week 11. Tree based methods. Bagging, Random forests, and Boosting.
 
-Week 12. Tree based methods. Bagging, Random forests, and Boosting.
+Week 12. Unsupervised learning. Principal component analysis. Factor analysis.
 
-Week 13. Unsupervised learning. Principal component analysis. Factor analysis.
+Week 13. Clustering methods.
 
-Week 14. Clustering methods.
-
-Week 15. Final review and examples.
+Week 14. Final review and examples.
 
 ## Student Learning Outcomes
 
@@ -182,9 +180,9 @@ For the official ITU Fall 2022-2023 academic calendar, please visit:
 
 Here are some selected important dates in Spring 2023 semester:
 
-February 06, 2023: First day of classes.
+February 20, 2023: First day of classes.
 
-February 06-10, 2023: Add-drop week.
+February 20-24, 2023: Add-drop week.
 
 March 27-31, 2023: ITU Spring Break (No classes).
 
@@ -196,9 +194,9 @@ May 1, 2023: Labor and Solidarity Day (Monday).
 
 May 19, 2023: Commemoration of Atatürk, Youth and Sports Day (Friday)
 
-May 19, 2023: Last day of classes.
+May 26, 2023: Last day of classes.
 
-May 22-June 04, 2023: Final exam week.
+May 29-June 11, 2023: Final exam week.
 
 I also honor other national and religious holidays. Students, who needs flexibility on individual-based studies overlapping with these special days, can inform me.
 
@@ -211,20 +209,10 @@ Please read the information below as a reference for how this class will be cond
 | Assessment Method                  | Contribution to Final Grade |
 |:-----------------------------------|:----------------------------|
 | In-class performance               | 5%                          |
-| Midterm exam                       | 30%                         |
+| Homework                           | 10%     Each                |
 | Paper presentation                 | 25%                         |
 | Data analysis project presentation | 40%                         |
 
-## Midterm date and coverage
-
-<p align="justify">
-
--   The midterm will be on `TBA`.
--   The midterm topics will cover whatever we have covered up to that week.
--   The main aim of the midterm is to assess whether you are able to frame a data analysis problem, implement it, and report the results.
--   The midterm will be hands-on and open-book exam. For that reason, you have to bring your own portable computer to the exam place.
-
-</p>
 
 ## Paper resentation (along with report submission) date and coverage
 
@@ -257,7 +245,7 @@ There is no VF rule to attend or not to attend the final exam.
 
 <p align="justify">
 
--   The students who miss either midterm exam, paper presentation, or data analysis project presentation due to a health problem can take a make-up exam/presentation day as long as they have a valid medical report taken on the exam day.
+-   The students who miss either paper presentation, or data analysis project presentation due to a health problem can take a make-up exam/presentation day as long as they have a valid medical report taken on the exam day.
 -   The medical report should be handed in immediately (within two days of its expiration).
 -   There will be **NO** make-up for missed in-class activities.
 
