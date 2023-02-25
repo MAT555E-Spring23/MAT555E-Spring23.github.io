@@ -102,6 +102,6 @@
     "href": "lectures/Week_01/index.html",
     "title": "Week 01",
     "section": "",
-    "text": "Introduction to simple linear regression."
+    "text": "Introduction simple linear regression\nLeast-squares estimation\nBuilding a simple linear regression model\nImplementing a simple linear regression model with Python statsmodels library"
   }
 ]

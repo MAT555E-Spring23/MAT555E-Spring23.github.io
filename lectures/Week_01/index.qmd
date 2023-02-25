@@ -16,5 +16,8 @@ format:
 
 ## Learning Objectives
 
-* Introduction to simple linear regression.
+-   Introduction simple linear regression
+-   Least-squares estimation
+-   Building a simple linear regression model
+-   Implementing a simple linear regression model with Python [statsmodels](https://www.statsmodels.org/stable/index.html) library
 
