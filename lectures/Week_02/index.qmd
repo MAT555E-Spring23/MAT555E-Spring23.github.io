@@ -1,0 +1,25 @@
+---
+title: "Week 02"
+author: "Gül İnan"
+date: "February 28, 2023"
+comments:
+  hypothesis: 
+    theme: clean
+execute: 
+  enabled: true
+  warning: false
+  error: false
+format: 
+  html:
+    code-fold: false
+---
+
+## Learning Objectives
+
+-   Introduction to multiple linear regression
+-   Least-squares estimation
+-   Statistical tests
+-   Model selection criteria
+-   Implementing a multiple linear regression model with Python [statsmodels](https://www.statsmodels.org/stable/index.html) library
+
+
